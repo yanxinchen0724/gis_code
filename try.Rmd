@@ -10,10 +10,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Distribution of marks for component 2
+This section outlines the percentages assignment to each of the marking criteria per part of the assessment:
+• Initial project scope: 20%
+• Data loading, wrangling and pre-processing: 30%
+• Methods, interpretation and criticality: 30%
+• Visualisation proficiency and communication: 20%
+Please note, poor academic practice or academic misconduct will be reported to the Module Convenor in the first instance who will follow the 
+relevant policies outlined in the UCL academic manual, Chapter 6, section 9.
 
 ```{r cars}
 summary(cars)
